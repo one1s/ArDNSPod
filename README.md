@@ -78,3 +78,4 @@ arDdnsCheck "test.org" "subdomain"
 
 Original: anrip
 Forked form anrip/ArDNSPod
+https://www.ngui.cc/51cto/show-714475.html?action=onClick
